@@ -24,4 +24,4 @@ void QHelloStyle::drawPrimitive(PrimitiveElement element, const QStyleOption* op
     }
 }
 
-Q_PLUGIN_METADATA(IID "your.unique.plugin.identifier")
+Q_PLUGIN_METADATA(IID "org.qt-project.Qt.QStyleFactoryInterface")
